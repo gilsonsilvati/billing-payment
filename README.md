@@ -1,3 +1,8 @@
+# billing-payment
+
+## Responsabilidades: Operações financeiras, pagamentos relacionados a reserva e serviços
+## Contexto: Faturamento, processamento de pagamento, geração de recibos
+
 ## Micronaut 4.6.0 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.6.0/guide/index.html)
